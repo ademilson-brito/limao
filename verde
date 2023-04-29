@@ -1,0 +1,4 @@
+<script>
+alert("bem-vindo ao mundo javaScript!")
+console.log("mais um pra conta...")
+</script>
